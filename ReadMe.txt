@@ -3,7 +3,7 @@ This test demoinstrates that current camel-olingo2 component
 doesn't support OData 3.0 compliant services
 
 The error Error reading EDM: Invalid or missing namespace for 'Schema' 
-means that OData schema 3.0 http://schemas.microsoft.com/ado/2009/11/edm 
+means that OData 3.0 schema http://schemas.microsoft.com/ado/2009/11/edm 
 is not defined inside Olingo2 library
 ===========================
 
